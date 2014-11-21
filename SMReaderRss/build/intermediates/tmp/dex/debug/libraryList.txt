@@ -1,0 +1,2 @@
+C:\Users\sandrine.marquis\ownCloud\Android\SMReaderRss\SMReaderRss\build\intermediates\pre-dexed\debug\android-support-v4-7a5a5c5290ffdbb7c4f50e6cf86ca021b63a4c1a.jar
+C:\Users\sandrine.marquis\ownCloud\Android\SMReaderRss\SMReaderRss\build\intermediates\classes\debug

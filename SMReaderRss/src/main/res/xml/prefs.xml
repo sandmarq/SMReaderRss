@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/catTitle1" />
+
+    <ListPreference
+            android:title="@string/lpFontTitle"
+            android:key="fonts"
+            android:summary="@string/lpFontSummary"
+            android:entries="@array/fontSize"
+            android:entryValues="@array/fValues"/>
+
+    <CheckBoxPreference
+        android:title="@string/cbTheme"
+        android:key="theme"
+        android:summary="@string/cbsummary" />
+
+    <PreferenceCategory
+            android:title="@string/netTitle1" />
+
+    <PreferenceCategory
+            android:title="@string/dbTitle1" />
+
+</PreferenceScreen>

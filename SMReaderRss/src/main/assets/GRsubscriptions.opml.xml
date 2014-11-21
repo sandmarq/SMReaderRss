@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Abonnements de wildtiger23 dans Google Reader</title>
+    </head>
+    <body>
+        <outline title="SunNewsNetwork" text="SunNewsNetwork">
+            <outline
+                text="Canada's network for news, politics, and opinions"
+                title="Canada's network for news, politics, and opinions"
+                type="rss"
+                xmlUrl="http://www.sunnewsnetwork.ca/rss/index.xml" htmlUrl="http://www.sunnewsnetwork.ca/"/>
+            <outline text="Ezra Levant" title="Ezra Levant" type="rss"
+                xmlUrl="http://ezralevant.com/atom.xml" htmlUrl="http://ezralevant.com/"/>
+        </outline>
+        <outline title="games" text="games">
+            <outline text="Guild Wars - Game Updates"
+                title="Guild Wars - Game Updates" type="rss"
+                xmlUrl="http://www.guildwars.com/support/gameupdates/rss/updates-current.xml" htmlUrl="http://www.guildwars.com/support/gameupdates/default.php"/>
+            <outline text="PlayStation.Blog" title="PlayStation.Blog"
+                type="rss" xmlUrl="http://feeds.feedburner.com/PSBlog" htmlUrl="http://blog.us.playstation.com"/>
+            <outline text="YouTube :: Videos by PlayStation"
+                title="YouTube :: Videos by PlayStation" type="rss"
+                xmlUrl="http://www.youtube.com/ut_rss?type=username&amp;arg=PlayStation" htmlUrl="http://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA/videos"/>
+        </outline>
+        <outline title="news" text="news">
+            <outline text="CanadaFreePress.Com"
+                title="CanadaFreePress.Com" type="rss"
+                xmlUrl="http://canadafreepress.com/index.php/CFP-RSS" htmlUrl="http://canadafreepress.com"/>
+            <outline text="Canoë - Aujourd'hui dans l'actualité"
+                title="Canoë - Aujourd'hui dans l'actualité" type="rss"
+                xmlUrl="http://www2.canoe.com/rss/feed/nouvelles/aujourdhui.xml" htmlUrl="http://fr.canoe.ca/infos/aujourdhui/"/>
+            <outline text="Canoë - International"
+                title="Canoë - International" type="rss"
+                xmlUrl="http://www2.canoe.com/rss/feed/nouvelles/international.xml" htmlUrl="http://fr.canoe.ca/infos/international/"/>
+            <outline text="Canoë - Techno et Sciences"
+                title="Canoë - Techno et Sciences" type="rss"
+                xmlUrl="http://www2.canoe.com/rss/feed/nouvelles/techno_sciences.xml" htmlUrl="http://fr.canoe.ca/techno/"/>
+            <outline text="CNN.com" title="CNN.com" type="rss"
+                xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss" htmlUrl="http://www.cnn.com/index.html?eref=rss_topstories"/>
+            <outline text="CNN.com Recently Published/Updated"
+                title="CNN.com Recently Published/Updated" type="rss"
+                xmlUrl="http://rss.cnn.com/rss/cnn_latest.rss" htmlUrl="http://www.cnn.com/?eref=rss_latest"/>
+            <outline text="Corus | Montréal" title="Corus | Montréal"
+                type="rss"
+                xmlUrl="http://www.corusnouvelles.com/rss.php" htmlUrl="http://www.corusnouvelles.com/page_rss.php?partner=rss"/>
+            <outline text="Cyberpresse: Accueil"
+                title="Cyberpresse: Accueil" type="rss"
+                xmlUrl="http://www.cyberpresse.ca/apps/pbcs.dll/section?Category=CPRSS&amp;profile=5032&amp;mime=xml&amp;cacheid=5032" htmlUrl="http://www.cyberpresse.ca"/>
+            <outline text="Cyberpresse: ACTUALITÉS"
+                title="Cyberpresse: ACTUALITÉS" type="rss"
+                xmlUrl="http://www.cyberpresse.ca/apps/pbcs.dll/section?Category=CPRSS&amp;profile=1019&amp;mime=xml&amp;cacheid=1019" htmlUrl="http://www.cyberpresse.ca/?utm_source=Fils&amp;utm_medium=RSS&amp;utm_campaign=TCN_ACTUALIT%C3%89"/>
+            <outline text="Cyberpresse: CP_MCAuger"
+                title="Cyberpresse: CP_MCAuger" type="rss"
+                xmlUrl="http://www.cyberpresse.ca/apps/pbcs.dll/section?Category=CPRSS&amp;section=cpblogues07&amp;mime=xml&amp;cacheid=cpblogues07" htmlUrl="http://www.cyberpresse.ca"/>
+            <outline text="Google News Canada"
+                title="Google News Canada" type="rss"
+                xmlUrl="http://news.google.com/news?ned=ca&amp;output=atom" htmlUrl="http://news.google.com/news?ned=ca&amp;hl=en"/>
+            <outline text="Google News Canada"
+                title="Google News Canada" type="rss"
+                xmlUrl="http://news.google.com/news?ned=fr_ca&amp;output=atom" htmlUrl="http://news.google.com/news?ned=fr_ca&amp;hl=fr"/>
+            <outline text="Le fil de presse du Devoir"
+                title="Le fil de presse du Devoir" type="rss"
+                xmlUrl="http://www.ledevoir.com/rss/ledevoir.xml" htmlUrl="http://www.ledevoir.com"/>
+            <outline text="Nouvelles régionales - Montréal"
+                title="Nouvelles régionales - Montréal" type="rss"
+                xmlUrl="http://www.tqs.ca/feeds/nouvelles-Montreal.xml" htmlUrl="http://www.tqs.ca/"/>
+            <outline text="Nouvelles régionales - Québec"
+                title="Nouvelles régionales - Québec" type="rss"
+                xmlUrl="http://www.tqs.ca/feeds/nouvelles-Quebec.xml" htmlUrl="http://www.tqs.ca/"/>
+            <outline text="Radio-Canada | Grands titres"
+                title="Radio-Canada | Grands titres" type="rss"
+                xmlUrl="http://rss.radio-canada.ca/grandstitres.xml" htmlUrl="http://www.radio-canada.ca/regions/saskatchewan/?ref=rss"/>
+            <outline text="Radio-Canada | Internet et technologie"
+                title="Radio-Canada | Internet et technologie"
+                type="rss"
+                xmlUrl="http://rss.radio-canada.ca/internetettechnologie.xml" htmlUrl="http://www.radio-canada.ca/radio/techno/"/>
+            <outline text="Radio-Canada | Le monde"
+                title="Radio-Canada | Le monde" type="rss"
+                xmlUrl="http://rss.radio-canada.ca/lemonde.xml" htmlUrl="http://www.radio-canada.ca/regions/manitoba/?ref=rss"/>
+            <outline text="Radio-Canada | National"
+                title="Radio-Canada | National" type="rss"
+                xmlUrl="http://rss.radio-canada.ca/national.xml" htmlUrl="http://www.radio-canada.ca/nouvelles/National/?ref=rss"/>
+            <outline text="Radio-Canada | Politique"
+                title="Radio-Canada | Politique" type="rss"
+                xmlUrl="http://rss.radio-canada.ca/politique.xml" htmlUrl="http://www.radio-canada.ca/nouvelles/Politique/?ref=rss"/>
+            <outline text="Radio-Canada | Science et santé"
+                title="Radio-Canada | Science et santé" type="rss"
+                xmlUrl="http://rss.radio-canada.ca/scienceetsante.xml" htmlUrl="http://www.radio-canada.ca/nouvelles/Science-Sante/?ref=rss"/>
+            <outline text="Radio-Canada | Société"
+                title="Radio-Canada | Société" type="rss"
+                xmlUrl="http://rss.radio-canada.ca/societe.xml" htmlUrl="http://www.radio-canada.ca/nouvelles/societe/?ref=rss"/>
+        </outline>
+        <outline title="Perso" text="Perso">
+            <outline text="ATQ" title="ATQ" type="rss"
+                xmlUrl="http://www.atq1980.org/feed" htmlUrl="http://www.atq1980.org"/>
+            <outline text="MTL_QUEER_alternatif sur Yahoo! Groupes"
+                title="MTL_QUEER_alternatif sur Yahoo! Groupes"
+                type="rss"
+                xmlUrl="http://rss.groups.yahoo.com/group/MTL_QUEER_alternatif/rss" htmlUrl="http://fr.groups.yahoo.com/group/MTL_QUEER_alternatif/"/>
+            <outline text="Observatoire Des Transidentités"
+                title="Observatoire Des Transidentités" type="rss"
+                xmlUrl="http://observatoire-des-transidentites.over-blog.com/rss-articles.xml" htmlUrl="http://www.observatoire-des-transidentites.com/"/>
+            <outline text="Tinaï" title="Tinaï" type="rss"
+                xmlUrl="http://tinai-world.blogspot.com/feeds/posts/default" htmlUrl="http://tinai-world.blogspot.com/"/>
+            <outline text="Transgendered News"
+                title="Transgendered News" type="rss"
+                xmlUrl="http://www.topix.com/rss/news/transgendered" htmlUrl="http://www.topix.com/news/transgender"/>
+            <outline
+                text="Xtra | Canada's gay &amp; lesbian news RSS News Feed - Top Stories"
+                title="Xtra | Canada's gay &amp; lesbian news RSS News Feed - Top Stories"
+                type="rss"
+                xmlUrl="http://www.xtra.ca/public/rss.aspx?AFF_TYPE=1&amp;RSS_TYPE=1" htmlUrl="http://www.xtra.ca"/>
+        </outline>
+        <outline title="Kindle" text="Kindle">
+            <outline text="ebooks" title="ebooks" type="rss"
+                xmlUrl="http://ebooks-fr.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://ebooks-fr.blogspot.com/"/>
+            <outline text="Kindle Nation Daily"
+                title="Kindle Nation Daily" type="rss"
+                xmlUrl="http://kindlehomepage.blogspot.com/feeds/posts/default" htmlUrl="http://kindlehomepage.blogspot.com/"/>
+            <outline text="Kindle Nation Daily"
+                title="Kindle Nation Daily" type="rss"
+                xmlUrl="http://kindlenationdaily.com/?feed=rss2" htmlUrl="http://kindlenationdaily.com"/>
+            <outline text="Les 100 Derniers Ebooks par les Membres"
+                title="Les 100 Derniers Ebooks par les Membres"
+                type="rss"
+                xmlUrl="http://www.ebooks-gratuit.com/rss-upload.php" htmlUrl="http://www.ebooks-gratuit.com/"/>
+            <outline text="Team Alexandriz,N°1 sur les ebooks FR"
+                title="Team Alexandriz,N°1 sur les ebooks FR" type="rss"
+                xmlUrl="http://feeds.feedburner.com/TeamAlexandriz?format=xml" htmlUrl="http://www.teamalexandriz.org"/>
+        </outline>
+        <outline title="politique" text="politique">
+            <outline text="Mouvement Nouveau Québec"
+                title="Mouvement Nouveau Québec" type="rss"
+                xmlUrl="http://www.nouveauquebec.com/feed/" htmlUrl="http://www.nouveauquebec.com"/>
+            <outline text="Revue de Presse - ADQ"
+                title="Revue de Presse - ADQ" type="rss"
+                xmlUrl="https://wiki.adq.qc.ca/tiki-articles_rss.php?ver=2" htmlUrl="http://wiki.adq.qc.ca/tiki-articles_rss.php?ver=2"/>
+        </outline>
+        <outline title="blog" text="blog">
+            <outline text="Antagoniste.net" title="Antagoniste.net"
+                type="rss"
+                xmlUrl="http://www.antagoniste.net/?feed=rss2" htmlUrl="http://www.antagoniste.net"/>
+            <outline text="Blogue de Joanne Marcotte"
+                title="Blogue de Joanne Marcotte" type="rss"
+                xmlUrl="http://jmarcotte.blogspot.com/feeds/posts/default" htmlUrl="http://jmarcotte.blogspot.com/"/>
+            <outline text="Blogue de Richard Martineau"
+                title="Blogue de Richard Martineau" type="rss"
+                xmlUrl="http://martineau.blogue.canoe.ca/xmlsrv/rss2.php?blog=99" htmlUrl="http://martineau.blogue.canoe.ca/"/>
+            <outline text="Contrepoids" title="Contrepoids" type="rss"
+                xmlUrl="http://feeds.feedburner.com/contrepoids" htmlUrl="http://www.contrepoids.com"/>
+            <outline text="DANS L'OEIL DU SOCIOLOGUE"
+                title="DANS L'OEIL DU SOCIOLOGUE" type="rss"
+                xmlUrl="http://oeildusociologue.blogspot.com/atom.xml" htmlUrl="http://oeildusociologue.blogspot.com/"/>
+            <outline text="Derrière la caisse enregistreuse"
+                title="Derrière la caisse enregistreuse" type="rss"
+                xmlUrl="http://derrierelacaisse.blogspot.com/feeds/posts/default" htmlUrl="http://derrierelacaisse.blogspot.com/"/>
+            <outline text="Doréus en Alberta" title="Doréus en Alberta"
+                type="rss" xmlUrl="http://doreus.wordpress.com/feed/" htmlUrl="http://doreus.wordpress.com"/>
+            <outline
+                text="Du matériel classique, en direct de Vancouver"
+                title="Du matériel classique, en direct de Vancouver"
+                type="rss"
+                xmlUrl="http://alexbellefleur.coffeespoons.org/?feed=atom" htmlUrl="http://a.coffeespoons.org"/>
+            <outline text="En 103 caractères ou moins ..."
+                title="En 103 caractères ou moins ..." type="rss"
+                xmlUrl="http://en103caracteres.blogspot.com/feeds/posts/default" htmlUrl="http://en103caracteres.blogspot.com/"/>
+            <outline text="Espace HonoronsMercier: Billets récents"
+                title="Espace HonoronsMercier: Billets récents"
+                type="rss"
+                xmlUrl="http://www.espacecanoe.com/HonoronsMercier/rss/blog/" htmlUrl="http://espace.canoe.ca/HonoronsMercier/rss/blog/?sort=newest"/>
+            <outline text="FailQc .com" title="FailQc .com" type="rss"
+                xmlUrl="http://feeds.feedburner.com/Failqc" htmlUrl="http://www.failqc.com"/>
+            <outline text="Femme 2.0 ou le parcours transsexuel"
+                title="Femme 2.0 ou le parcours transsexuel" type="rss"
+                xmlUrl="http://femme-2-0.blogspot.com/feeds/posts/default" htmlUrl="http://femme-2-0.blogspot.com/"/>
+            <outline text="Free Canuckistan!" title="Free Canuckistan!"
+                type="rss" xmlUrl="http://steynian.wordpress.com/feed/" htmlUrl="http://steynian.wordpress.com"/>
+            <outline text="GB pour Geloso-Breguet"
+                title="GB pour Geloso-Breguet" type="rss"
+                xmlUrl="http://geloso-breguet.blogspot.com/feeds/posts/default" htmlUrl="http://geloso-breguet.blogspot.com/"/>
+            <outline
+                text="Grattecenne.com - Le blog des cheaps - Rabais et Échantillons"
+                title="Grattecenne.com - Le blog des cheaps - Rabais et Échantillons"
+                type="rss"
+                xmlUrl="http://www.grattecenne.com/?feed=rss2" htmlUrl="http://www.grattecenne.com"/>
+            <outline text="Jeff Plante" title="Jeff Plante" type="rss"
+                xmlUrl="http://jfplante.tumblr.com/rss" htmlUrl="http://jfplante.tumblr.com/"/>
+            <outline text="Jonathan le Goéland"
+                title="Jonathan le Goéland" type="rss"
+                xmlUrl="http://feeds.feedburner.com/jbgoeland" htmlUrl="http://jbgoeland.blogspot.com/"/>
+            <outline text="kuebek" title="kuebek" type="rss"
+                xmlUrl="http://kuebek.blogspot.com/atom.xml" htmlUrl="http://kuebek.blogspot.com/"/>
+            <outline text="Le blogue de Maxime Bernier"
+                title="Le blogue de Maxime Bernier" type="rss"
+                xmlUrl="http://www.maximebernier.com/feed/" htmlUrl="http://www.maximebernier.com"/>
+            <outline text="Le blogue de Reynald Du Berger"
+                title="Le blogue de Reynald Du Berger" type="rss"
+                xmlUrl="http://duberger.wordpress.com/feed/" htmlUrl="http://duberger.me"/>
+            <outline text="Le blogue du QL" title="Le blogue du QL"
+                type="rss" xmlUrl="http://www.leblogueduql.org/atom.xml" htmlUrl="http://www.leblogueduql.org/"/>
+            <outline text="Le Minarchiste Québécois"
+                title="Le Minarchiste Québécois" type="rss"
+                xmlUrl="http://feeds.feedburner.com/RealiteVirtuelle" htmlUrl="http://www.minarchisteqc.com"/>
+            <outline text="Liberté au Canada" title="Liberté au Canada"
+                type="rss"
+                xmlUrl="http://liberteaucanada.com/blog/index.php?blog=2&amp;tempskin=_atom" htmlUrl="http://liberteaucanada.com/blog/index.php?blog=2"/>
+            <outline
+                text="L'intelligence conséquente, journal du conservatisme critique"
+                title="L'intelligence conséquente, journal du conservatisme critique"
+                type="rss" xmlUrl="http://cbergeron.wordpress.com/feed/" htmlUrl="http://cbergeron.wordpress.com"/>
+            <outline text="Marilène" title="Marilène" type="rss"
+                xmlUrl="http://marilenepilon.wordpress.com/feed/" htmlUrl="http://marilenepilon.wordpress.com"/>
+            <outline
+                text="Michelle Blanc, M.Sc. commerce électronique. Marketing Internet, consultante, conférencière et auteure"
+                title="Michelle Blanc, M.Sc. commerce électronique. Marketing Internet, consultante, conférencière et auteure"
+                type="rss" xmlUrl="http://www.michelleblanc.com/feed/" htmlUrl="http://www.michelleblanc.com"/>
+            <outline text="Mini en Alberta!" title="Mini en Alberta!"
+                type="rss"
+                xmlUrl="http://minissa.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://minissa.blogspot.com/"/>
+            <outline text="MontrealAubaines.com"
+                title="MontrealAubaines.com" type="rss"
+                xmlUrl="http://www.montrealaubaines.com/feed/" htmlUrl="http://www.montrealaubaines.com"/>
+            <outline text="Où vont vos impôts ?"
+                title="Où vont vos impôts ?" type="rss"
+                xmlUrl="http://blogues.canoe.ca/impots/feed/" htmlUrl="http://blogues.canoe.ca/impots"/>
+            <outline text="Perdus sans la nature"
+                title="Perdus sans la nature" type="rss"
+                xmlUrl="http://perdussanslanature.com/?feed=rss2" htmlUrl="http://perdussanslanature.com"/>
+            <outline text="Pour un Autre Monde"
+                title="Pour un Autre Monde" type="rss"
+                xmlUrl="http://pour-un-autre-monde.blogspot.com/atom.xml" htmlUrl="http://pour-un-autre-monde.blogspot.com/"/>
+            <outline text="Radio-Troud'cul de taverne"
+                title="Radio-Troud'cul de taverne" type="rss"
+                xmlUrl="http://troudculdetaverne.blogspot.com/feeds/posts/default" htmlUrl="http://troudculdetaverne.blogspot.com/"/>
+            <outline text="Renart L'éveillé / Carnet résistant"
+                title="Renart L'éveillé / Carnet résistant" type="rss"
+                xmlUrl="http://renartleveille.wordpress.com/feed/" htmlUrl="http://www.renartleveille.com"/>
+            <outline text="Republique de bananes"
+                title="Republique de bananes" type="rss"
+                xmlUrl="http://www.republiquedebananes.com/?feed=rss2" htmlUrl="http://www.republiquedebananes.com"/>
+            <outline text="Réseau Anti Spin" title="Réseau Anti Spin"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/leblogueanti-spindubumintello" htmlUrl="http://lebumintello.blogspot.com/"/>
+            <outline text="UN  TAXi  LA  NUiT"
+                title="UN  TAXi  LA  NUiT" type="rss"
+                xmlUrl="http://taxidenuit.blogspot.com/feeds/posts/default" htmlUrl="http://taxidenuit.blogspot.com/"/>
+            <outline text="Vincent Geloso" title="Vincent Geloso"
+                type="rss"
+                xmlUrl="http://vincent-geloso.blogspot.com/feeds/posts/default" htmlUrl="http://vincent-geloso.blogspot.com/"/>
+            <outline text="Vincent Geloso et cie"
+                title="Vincent Geloso et cie" type="rss"
+                xmlUrl="http://vincentgeloso.blogspot.com/atom.xml" htmlUrl="http://vincentgeloso.blogspot.com/"/>
+            <outline text="Élections Canada 2008"
+                title="Élections Canada 2008" type="rss"
+                xmlUrl="http://www.electionscanada2008.blogspot.com/feeds/posts/default" htmlUrl="http://electionscanada2008.blogspot.com/"/>
+        </outline>
+        <outline title="info" text="info">
+            <outline text="blogueLinux.ca » Après CAST"
+                title="blogueLinux.ca » Après CAST" type="rss"
+                xmlUrl="http://feeds.feedburner.com/apres_cast" htmlUrl="http://www.bloguelinux.ca"/>
+            <outline text="Clubic.com - Actualité"
+                title="Clubic.com - Actualité" type="rss"
+                xmlUrl="http://www.clubic.com/xml/news.xml" htmlUrl="http://clubic.com/"/>
+            <outline text="Linux Today" title="Linux Today" type="rss"
+                xmlUrl="http://www.linuxtoday.com/biglt.rss" htmlUrl="http://www.linuxtoday.com/"/>
+            <outline text="Manchettes : Accueil"
+                title="Manchettes : Accueil" type="rss"
+                xmlUrl="http://technaute.cyberpresse.ca/rss/53.xml" htmlUrl="http://techno.lapresse.ca"/>
+            <outline text="OpenMedia.ca" title="OpenMedia.ca" type="rss"
+                xmlUrl="http://openmedia.ca/rss.xml" htmlUrl="http://openmedia.ca"/>
+            <outline text="Penny Arcade" title="Penny Arcade" type="rss"
+                xmlUrl="http://feeds.penny-arcade.com/pa-mainsite" htmlUrl="http://www.penny-arcade.com"/>
+            <outline text="Presse-Citron" title="Presse-Citron"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/Pressecitron" htmlUrl="http://www.presse-citron.net"/>
+            <outline
+                text="Science News   / Features, Blog Entries, Column Entries, Issues, News Items and Book Reviews"
+                title="Science News   / Features, Blog Entries, Column Entries, Issues, News Items and Book Reviews"
+                type="rss"
+                xmlUrl="http://www.sciencenews.org/view/feed/name/all.rss" htmlUrl="http://www.sciencenews.org/view/feed/name/all.rss"/>
+            <outline text="Scoopeo La une" title="Scoopeo La une"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/ScoopeoLaUne" htmlUrl="http://www.scoopeo.com"/>
+            <outline text="Slashdot" title="Slashdot" type="rss"
+                xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="http://slashdot.org/"/>
+            <outline text="TechRepublic.com" title="TechRepublic.com"
+                type="rss"
+                xmlUrl="http://articles.techrepublic.com.com/5150-22-0.xml" htmlUrl="http://www.techrepublic.com"/>
+        </outline>
+        <outline title="Torrents" text="Torrents">
+            <outline text="ezRSS - Latest torrent releases"
+                title="ezRSS - Latest torrent releases" type="rss"
+                xmlUrl="https://www.ezrss.it/feed/" htmlUrl="http://ezrss.it/feed/"/>
+            <outline text="YIFY-Torrents RSS" title="YIFY-Torrents RSS"
+                type="rss"
+                xmlUrl="http://yify-torrents.com/rss/0/720p/All/0" htmlUrl="http://yify-torrents.com/"/>
+        </outline>
+        <outline title="Mac" text="Mac">
+            <outline text="BestAppSite" title="BestAppSite" type="rss"
+                xmlUrl="http://www.bestappsite.com/feed/" htmlUrl="http://www.bestappsite.com"/>
+            <outline text="MacBidouille.com" title="MacBidouille.com"
+                type="rss"
+                xmlUrl="http://feeds.macbidouille.com/macbidouille/" htmlUrl="http://www.macbidouille.com"/>
+            <outline text="MacNews Latest News"
+                title="MacNews Latest News" type="rss"
+                xmlUrl="http://www.macnews.com/news/feed" htmlUrl="http://www.macnews.com/news"/>
+            <outline text="MacNN | The Macintosh News Network"
+                title="MacNN | The Macintosh News Network" type="rss"
+                xmlUrl="http://feeds.macnn.com/macnn/rss/macnn" htmlUrl="http://www.macnn.com/"/>
+            <outline text="MacRumors: Mac News and Rumors - All Stories"
+                title="MacRumors: Mac News and Rumors - All Stories"
+                type="rss"
+                xmlUrl="http://feeds.macrumors.com/MacRumors-All" htmlUrl="http://www.macrumors.com"/>
+            <outline text="TidBITS: Apple News for the Rest of Us"
+                title="TidBITS: Apple News for the Rest of Us"
+                type="rss"
+                xmlUrl="http://tidbits.com/feeds/tidbits_blurb.rss" htmlUrl="http://tidbits.com/"/>
+        </outline>
+        <outline title="tv" text="tv">
+            <outline text="GateWorld News" title="GateWorld News"
+                type="rss"
+                xmlUrl="http://www.gateworld.net/news/rss_gateworld.xml" htmlUrl="http://www.gateworld.net/news"/>
+            <outline text="Star Trek Online -"
+                title="Star Trek Online -" type="rss"
+                xmlUrl="http://www.startrekonline.com/frontpage/feed" htmlUrl="http://www.startrekonline.com/frontpage"/>
+            <outline text="Stargate Worlds News"
+                title="Stargate Worlds News" type="rss"
+                xmlUrl="http://www.stargateworlds.com/rss/" htmlUrl="http://community.stargateworlds.com/"/>
+            <outline text="TrekToday Headlines"
+                title="TrekToday Headlines" type="rss"
+                xmlUrl="http://www.trektoday.com/headlines/rss.xml" htmlUrl="http://www.trektoday.com/content"/>
+            <outline text="TVQC" title="TVQC" type="rss"
+                xmlUrl="http://www.tvqc.com/feed/atom/" htmlUrl="http://www.tvqc.com/"/>
+        </outline>
+        <outline title="radio" text="radio">
+            <outline text="RADIOREVEIL.COM" title="RADIOREVEIL.COM"
+                type="rss"
+                xmlUrl="http://www.radioreveil.com/phpBB2/flux/rssrr.xml" htmlUrl="http://www.radioreveil.com"/>
+        </outline>
+        <outline title="comic book" text="comic book">
+            <outline text="CBR News" title="CBR News" type="rss"
+                xmlUrl="http://www.comicbookresources.com/feed.php?feed=news" htmlUrl="http://www.comicbookresources.com"/>
+            <outline text="ComiXology Blog" title="ComiXology Blog"
+                type="rss" xmlUrl="http://blog.comixology.com/feed/" htmlUrl="http://blog.comixology.com"/>
+            <outline text="comiXology | Digital Comics"
+                title="comiXology | Digital Comics" type="rss"
+                xmlUrl="http://feeds.feedburner.com/ComixologyDigitalComics" htmlUrl="http://pulllist.comixology.com/digital/"/>
+            <outline text="IGN Comics" title="IGN Comics" type="rss"
+                xmlUrl="http://feeds.ign.com/ignfeeds/comics" htmlUrl="http://www.ign.com/articles"/>
+            <outline text="PREVIEWSworld" title="PREVIEWSworld"
+                type="rss"
+                xmlUrl="http://previews.diamondcomics.com/public/pw_rss_all.rss?t=2&amp;m=1&amp;c=6" htmlUrl="http://www.previewsworld.com/public/"/>
+        </outline>
+        <outline title="Lesbi" text="Lesbi">
+            <outline text="Femmes entre elles"
+                title="Femmes entre elles" type="rss"
+                xmlUrl="http://www.entreelles.net/feed/rss" htmlUrl="http://www.entreelles.net"/>
+            <outline text="Montreal Girl Geeks"
+                title="Montreal Girl Geeks" type="rss"
+                xmlUrl="http://feeds.feedburner.com/MontrealGirlGeeks" htmlUrl="http://montrealgirlgeeks.com"/>
+        </outline>
+    </body>
+</opml>

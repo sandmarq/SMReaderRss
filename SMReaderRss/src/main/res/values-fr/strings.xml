@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Texte en Fraçais -->
+
+    <string name="app_name">SM Reader rss</string>
+    <string name="action_settings">Propriété</string>
+    <string name="tvAboutTxt">Application créer par : http://www.sandmarq.ca</string>
+    <string name="about">À propos</string>
+    <string name="exit">Quitter</string>
+    <string name="b1">M</string>
+    <string name="b2">A</string>
+    <string name="categorie_prompt">Catégories</string>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+
+    <!-- XML -->
+    <string name="hello">hello</string>
+
+    <!-- Prefs -->
+    <string name="catTitle1">Apparence</string>
+    <string name="lpFontTitle">Police</string>
+    <string name="lpFontSummary">Grandeur police</string>
+    <string name="cbTheme">Theme</string>
+    <string name="cbsummary">Non Coché Noir/Coché Blanc</string>
+    <string name="netTitle1">Réseau</string>
+    <string name="dbTitle1">Base de données</string>
+
+</resources>

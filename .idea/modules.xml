@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SMReaderRss.iml" filepath="$PROJECT_DIR$/SMReaderRss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SMReaderRss/SMReaderRss-SMReaderRss.iml" filepath="$PROJECT_DIR$/SMReaderRss/SMReaderRss-SMReaderRss.iml" />
+    </modules>
+  </component>
+</project>
+
